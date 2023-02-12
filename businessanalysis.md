@@ -32,5 +32,7 @@
 ## 6.3 Preliminary support concept
 ## 6.4 Preliminary retirement concept
 # 7. Project Constraints
+* Project should not cost money to create or maintain and requirements phase should be done by the end of May. 
+* Potential costs in implementing should be discussed with sponsor.
 # 8. Appendix
 ## 8.1 Acronyms and abbreviations
