@@ -17,11 +17,15 @@
 ## 4. Business operational modes
 ## 5. Business operational quality
 ## 6. Business structure
-
 # 5. Preliminary operation concept of proposed system
 ## 5.1 Preliminary operational concept
 ### a) operational policies and constraints
 ### b) description of the proposed system
+* The system shall allow the user to add and remove items to shopping cart.
+* The system shall allow user to checkout and pay with credit card.
+* The system shall provide the user information about the items with brief description.
+* The system shall allow the user to reserve orders or reserve tables through the calender function.
+* The system shall give the user promotional ads via email at the sponsor's discretion.
 ### c) modes of system operation
 ### d) user classes and other involved personnel
 ### c) support environment
@@ -32,7 +36,7 @@
 ## 6.3 Preliminary support concept
 ## 6.4 Preliminary retirement concept
 # 7. Project Constraints
-* Project should not cost money to create or maintain and requirements phase should be done by the end of May. 
+* Project should not cost money to create or maintain and requirements phase should be done by the end of May/June. 
 * Potential costs in implementing should be discussed with sponsor.
 # 8. Appendix
 ## 8.1 Acronyms and abbreviations
